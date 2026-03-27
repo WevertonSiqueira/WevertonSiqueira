@@ -22,3 +22,4 @@ Atualmente aprendendo C# e evoluindo em arquitetura de sistemas.
 ![Weverton GitHub stats](https://github-readme-stats.vercel.app/api?username=WevertonSiqueira&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonSiqueira&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonSiqueira&layout=compact&theme=dark&hide=html,css,javascript)
